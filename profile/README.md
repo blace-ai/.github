@@ -5,3 +5,4 @@ Blace.ai is a high-performance C++ meta-inference library and AI model hub — b
 Our mission: abstract away OS, framework, and hardware differences, so developers can focus on building great products instead of wrestling with integrations.
 
 📦[blace.ai SDK](https://github.com/blace-ai/blace-ai)
+🧦[blace.ai Hub](https://github.com/blace-ai/hub)
